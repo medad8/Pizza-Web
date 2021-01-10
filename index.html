@@ -143,7 +143,30 @@
                         </div>
                     </div>
                 </div>
-        </div>
+        </div><div class="col-md-6">
+            <div class="col-md" id="orders-div">
+                <div class="row">
+                    <h3>Your Orders</h3>
+                    <table class="table table-striped table-dark">
+                        <thead>
+                            <tr>
+                                <th scope="col">Type</th>
+                                <th scope="col">Topping</th>
+                                <th scope="col">Crust</th>
+                                <th scope="col">Total</th>
+                            </tr>
+                        </thead>
+                        <tbody id="order-summary"></tbody>
+                    </table>
+
+                    <p class="delivery-cost hidden">
+                        Delivery: Ksh. <span id="delivery-amount"></span>
+                    </p>
+                    <p class="finalAmount hidden">
+                        Total: Ksh. <span id="finalAmount"></span>
+                    </p>
+                    <br /><br />
+                    <button class="btn btn-primary hidden" id="checkout">Proceed</button>
 
 
             <!-- contact section -->
