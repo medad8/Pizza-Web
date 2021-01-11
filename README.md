@@ -32,9 +32,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 
 ## Author
-- Medad Wuoddorry
+- Medad Orowe
 
 ## License 
 [MIT](https://github.com/medad8/pizza-web/blob/master/LICENSE.md)
 
- © [Medad Wuoddorry](https://github.com/medad8)
+ © [Medad Orowe](https://github.com/medad8)
